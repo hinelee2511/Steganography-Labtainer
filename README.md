@@ -1,1 +1,1 @@
-File hướng dẫn của bài lab trong thư mục docs của bài lab nhé!
+File hướng dẫn trong thư mục docs của bài lab nhé!
